@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shauryyyaaaaa
-- 👀 I’m interested in competitive coding and webD
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in competitive coding and software developing
+- 🌱 I’m currently learning C++ and leaned towards the major langauges necessary for software development
 - 💞️ I’m looking to contribute to open source actively
-- 📫 Email: shaushaurya45@gmail.com
+- 📫 Email: shauryagupta45@outlook.com
 
 <!---
 Shauryyyaaaaa/Shauryyyaaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
